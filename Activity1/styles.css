@@ -1,0 +1,17 @@
+form {
+    border-style: solid;
+    border-width: 1px;
+    width: 50%;
+    height: 20rem;
+}
+
+.block1 {
+    border-bottom: solid;
+    height: 20px;
+    border-width: 1px;
+    padding: 10px;
+    background-color: #D3D3D3;
+    
+}
+
+
